@@ -6,7 +6,9 @@
 </a>
 </p>
 
-<h1 align="right"> العلوم المفتوحة لظروف المحاصيل :M5</h1>
+<h1 dir="rtl" align="right">
+العلوم المفتوحة لظروف المحاصيل:
+<span dir="rtl">M5</span> </h1>
 
 <blockquote>
 <p align="right">كيف يمكن استخدام مجموعات بيانات <span dir="ltr">NASA</span> لرسم خرائط ظروف المحاصيل؟</p>
